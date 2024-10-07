@@ -33,12 +33,6 @@ fun MainMenuScreen(
             Text(text = "Piedra, Papel o Tijeras")
         }
 
-        Spacer(modifier = Modifier.height(8.dp))
-
-        Button(onClick = { /* Navigate to View 3 */ }) {
-            Text(text = "Calculadora de Ecuaciones de Segundo Grado")
-        }
-
         Spacer(modifier = Modifier.height(16.dp))
 
         Button(

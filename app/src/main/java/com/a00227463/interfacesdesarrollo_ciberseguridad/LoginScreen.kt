@@ -44,7 +44,7 @@ fun LoginScreen(
 
         Button(
             onClick = {
-                if (username == "cisco" && password == "cisco") {
+                if (username == "admin" && password == "admin") {
                     onLoginSuccess()
                 }
             },

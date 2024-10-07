@@ -3,7 +3,9 @@ An app mostly (uniquely) designed to force me to learn Kotlin. :) Made with love
 
 > Due to the nature of the project, I will not accept any type of Pull Request unless stated otherwise.
 
-The project uses a *log-in* system, both the username and the password are `cisco`. :)
+The system has a *login* system, in which both credentials are `admin` so like: 
+- Username: `admin`
+- Password: `admin`
 
 ## Features (To-Do)
 - Temperature Converter (Done) 
